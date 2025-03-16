@@ -30,4 +30,12 @@
 
 ---
 
+## 👥 Team
 
+**Kushagra Gupta** - +91 9717559194, e23cseu0252@bennett.edu.in
+
+**Anmol Salaria**	- +91 6306150846, e23cseu0255@bennett.edu.in
+
+**Mehul Bansal** - +91 8587925109, e23cseu0244@bennett.edu.in
+
+**Dev Thukral** -	+91 9956881138, e23cseu0258@bennett.edu.in
